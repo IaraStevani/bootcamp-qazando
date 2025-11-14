@@ -1,7 +1,7 @@
 # Projeto de Testes Automatizados com Cypress e JavaScript
 
 ## Objetivo
-Este projeto foi desenvolvido nos modulos iniciais de cypress para iniciantes para demonstrar aos alunos do bootcamp QAzando como automatizar testes utilizando Cypress e JavaScript. O foco está em apresentar boas práticas de organização do código, uso de Custom Commands e estruturação de cenários de teste automatizados.
+Este projeto foi desenvolvido nos modulos iniciais de cypress para iniciantes para demonstrar aos alunos do bootcamp QAzando como automatizar testes utilizando Cypress e JavaScript (Módulo 1 ao 11). O foco está em apresentar boas práticas de organização do código, uso de Custom Commands e estruturação de cenários de teste automatizados.
 
 ## Componentes do Projeto
 - **Cypress**: Framework principal para automação de testes end-to-end.
